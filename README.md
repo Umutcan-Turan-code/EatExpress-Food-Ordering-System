@@ -1,0 +1,1 @@
+A web-based food ordering and delivery management system developed using PHP, MySQL, JavaScript, HTML, and CSS. Features include user authentication, restaurant menus, order management, and payment workflow.
